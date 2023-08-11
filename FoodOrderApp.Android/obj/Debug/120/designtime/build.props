@@ -3,7 +3,11 @@ aotassemblies=false
 androidaddkeepalives=
 androidaotmode=none
 androidembedprofilers=
+<<<<<<< Updated upstream
 androidenableprofiledaot=
+=======
+androidenableprofiledaot=false
+>>>>>>> Stashed changes
 androiddextool=d8
 androidlinktool=
 androidlinkresources=
